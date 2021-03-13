@@ -39,3 +39,4 @@ vector <int> dijkstra(vector < vector <int> > G, int s)
     }
     return d;
 }
+
